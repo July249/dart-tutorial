@@ -1,7 +1,9 @@
 class Player {
-  late final String name;
-  late int xp;
+  // late final String name;
+  // late int xp;
 
+  final String name;
+  int xp;
   // Construnctor Method
   // Player(String name, int xp) {
   //   this.name = name;
